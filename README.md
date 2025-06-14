@@ -1,4 +1,5 @@
 # 🏋️‍♂️ 바벨 무게 계산기 (Barbell Weight Calculator)
+![image](https://github.com/user-attachments/assets/77f5fdd9-a24d-4397-b0d0-e8bf06cd192f)
 
 바벨 운동 시 정확한 총 무게를 계산하고 싶으신가요? 이 웹 기반 계산기는 봉 무게와 다양한 파운드 원판의 개수를 입력하여 총 바벨 무게를 자동으로 계산해 주는 편리한 도구입니다.
 
